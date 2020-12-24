@@ -18,7 +18,7 @@ Practice assignment using GitHub API
 
 ## Summary
 
-This was a practice assignment for Thinkful. The purpose was to gain more experience working with APIs. This app allows the user to search for a GitHub user's handle and then they are show the repos belonging to the user's handle that was searched.
+This was a practice assignment for Thinkful. The purpose was to gain more experience working with APIs. This app allows the user to search for a GitHub user's handle and then they are shown the repos belonging to the user's handle that was searched.
 
 ## Built With
 
